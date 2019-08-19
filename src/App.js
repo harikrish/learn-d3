@@ -2,23 +2,22 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import BarChart from './components/barchart';
+
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+      <header>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/d3/d3/wiki/Tutorials"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn D3
         </a>
       </header>
+      <BarChart/>
     </div>
   );
 }
