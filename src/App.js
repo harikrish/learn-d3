@@ -1,8 +1,9 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 import BarChart from './components/barchart';
+import BarChartPart2 from './components/barchartPart2';
+import Circle from './components/circle';
 
 function App() {
   return (
@@ -18,6 +19,8 @@ function App() {
         </a>
       </header>
       <BarChart/>
+      <BarChartPart2/>
+      <Circle/>
     </div>
   );
 }
