@@ -4,6 +4,7 @@ import './App.css';
 import BarChart from './components/barchart';
 import BarChartPart2 from './components/barchartPart2';
 import Circle from './components/circle';
+import ScatterPlot from './components/scatterPlot';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <BarChart/>
       <BarChartPart2/>
       <Circle/>
+      <ScatterPlot/>
     </div>
   );
 }
