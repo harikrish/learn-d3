@@ -2,6 +2,7 @@
   "name": "learn-d3",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://www.harianandan.com/learn-d3",
   "dependencies": {
     "@material-ui/core": "^4.3.3",
     "d3": "^5.10.0",

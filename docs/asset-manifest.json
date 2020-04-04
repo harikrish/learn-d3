@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learn-d3/static/css/main.9baeaa33.chunk.css",
+    "main.js": "/learn-d3/static/js/main.ef9eb91a.chunk.js",
+    "main.js.map": "/learn-d3/static/js/main.ef9eb91a.chunk.js.map",
+    "runtime~main.js": "/learn-d3/static/js/runtime~main.d3d8fdb3.js",
+    "runtime~main.js.map": "/learn-d3/static/js/runtime~main.d3d8fdb3.js.map",
+    "static/js/2.ae106b20.chunk.js": "/learn-d3/static/js/2.ae106b20.chunk.js",
+    "static/js/2.ae106b20.chunk.js.map": "/learn-d3/static/js/2.ae106b20.chunk.js.map",
+    "index.html": "/learn-d3/index.html",
+    "precache-manifest.dcb80a0af84b21507315e8d497ef8512.js": "/learn-d3/precache-manifest.dcb80a0af84b21507315e8d497ef8512.js",
+    "service-worker.js": "/learn-d3/service-worker.js",
+    "static/css/main.9baeaa33.chunk.css.map": "/learn-d3/static/css/main.9baeaa33.chunk.css.map"
+  }
+}

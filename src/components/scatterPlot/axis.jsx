@@ -12,13 +12,13 @@ export default class Axis extends Component {
 
   renderAxis() {
     if (this.props.ax === 'x') {
-      var axis = d3.axisBottom(this.props.xScale).ticks(5);
+      var axisVar = d3.axisBottom(this.props.xScale).ticks(5);
     } else if (this.props.ax === 'y') {
-      var axis = d3.axisLeft(this.props.yScale).ticks(5);
+      var axisVar = d3.axisLeft(this.props.yScale).ticks(5);
     }
 
     var node = this.refs.axis;
-    d3.select(node).call(axis);
+    d3.select(node).call(axisVar);
   }
 
   render() {
